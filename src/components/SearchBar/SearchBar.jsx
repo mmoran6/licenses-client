@@ -7,7 +7,7 @@ const SearchBar = () => {
             <div>
                 <Form.Control type="text" />
             </div>
-            <div>
+            <div className="iconSearch">
                 <img src='https://www.systemuicons.com/images/icons/search.svg'></img>
             </div>
         </Form>
