@@ -1,64 +1,55 @@
 import { useEffect, useState } from "react";
 import details from "../../data/details.txt";
 import features from "../../data/features.txt";
+import * as d3Fetch from 'd3-fetch'
 
 const Home = () => {
   const [license, setLicense] = useState()
   const [name, setName] = useState([])
-  const data = () => {
-    const request = new XMLHttpRequest();
-    request.open("GET", features, true);
-    request.send(null);
-    request.onreadystatechange = function () {
-      if (request.readyState === 4 && request.status === 200) {
-        var type = request.getResponseHeader("Content-Type");
-        if (type.indexOf("text") !== 1) {
-          console.log(JSON.parse(request.responseText));
-          setLicense(JSON.parse(request.responseText));
-          single(JSON.parse(request.responseText))
-        }
-      }
-    };
+  const [rows, setRows] = useState([])
 
+  //leer txt con licencias
+  const data = () => {
+    fetch(features)
+      .then(response => response.json())
+      .then(data => console.log(data))
   }
+
 
   const single = (array) => {
 
     const single = []
-    array.forEach((element)=>{
-      
-      if (!(single.includes(element.PortAtServer))){
+    array.forEach((element) => {
+
+      if (!(single.includes(element.PortAtServer))) {
         console.log("entro")
         single.push(element.PortAtServer)
-      } 
+      }
     })
 
     setName(single)
-    
+
     console.log(single)
-    console.log("-----------------")
-    console.log(license)
   }
 
+  const dictionary = () => {
+    d3Fetch.csv('/dictionary-table.csv').then((data) => {
+      console.log(data);
+    }) 
+  }
+ 
 
   useEffect(() => {
     data()
+    dictionary()
   }, []);
-  return (<div>
-
-    {/* {license.length ? (
-      license.map(licen => (
-        <CardLicense license={licen} />
-      ))
-    ) : (
-      <p>Loading Licencias...</p>
-    )}
-     */}
-  </div>
 
 
+  return (
+    <>
+      <h1>hola</h1>
 
-
+    </>
   )
 }
 

@@ -1,0 +1,261 @@
+﻿JTB,Nombre
+SAPAD v23,SAP2000 Advanced v23
+SAPUL v23,SAP2000 Ultimate v23
+SAPPL v23,SAP2000 Plus v23
+EtabPL v19,ETABS Plus v19
+EtabUL v19,ETABS Ultimate v19
+SAPPL v24,SAP2000 Plus v24
+a_spaceclaim_dirmod,ANSYS SpaceClaim Direct Modeler
+a_spaceclaim_faceteddata,ANSYS Faceted Data Toolkit for SpaceClaim
+advanced_meshing,ANSYS Advanced Meshing
+dsdxm,ANSYS DesignXplorer
+mech_2,ANSYS Mechanical Premium
+rdacis,ANSYS Geometry Interface for SAT
+rdpara,ANSYS Geometry Interface for Parasolid
+86063ACD_2014_0F,Autodesk AutoCAD 2014
+86075RVT_2014_0F,Autodesk Revit 2014
+86173CIV3D_2014_0F,Autodesk Civil 3D 2014
+86273RVT_2015_0F,Autodesk Revit 2015
+86295ACD_2015_0F,Autodesk AutoCAD 2015
+86354CIV3D_2015_0F,Autodesk Civil 3D 2015
+86480ARCHDESK_2017_0F,Autodesk AutoCAD Architecture 2017
+86604ACD_2017_0F,Autodesk AutoCAD 2017
+86606ARDES_2017_0F,Autodesk AutoCAD Raster Design 2017
+86612ADSTPR_2017_0F,Autodesk Advance Steel 2017
+86614ASPACD_2017_0F,Autodesk Advance Steel 2017 with AutoCAD
+86627AMECH_PP_2017_0F,Autodesk AutoCAD Mechanical 2017
+86631BLDSYS_2017_0F,Autodesk AutoCAD MEP 2017
+866333DSMAX_2017_0F,Autodesk 3ds Max 2017
+86635ACAD_E_2017_0F,Autodesk AutoCAD Electrical 2017
+86635ACAD_E_2018_0F,Autodesk AutoCAD Electrical 2018
+86648PNID_2017_0F,Autodesk AutoCAD P&ID 2017
+86650PLNT3D_2017_0F,Autodesk AutoCAD Plant 3D 2017
+86659RSAPRO_2017_0F,Autodesk Robot Structural Analysis Professional 2017
+86706RVT_2017_0F,Autodesk Revit 2017
+86718CIV3D_2017_0F,Autodesk Civil 3D 2017
+86719MAP_2017_0F,Autodesk AutoCAD Map 3D 2017
+86720UTLDESN_2017_0F,Autodesk AutoCAD Utility Design 2017
+86726VEHTRK_2017_0F,Autodesk Vehicle Tracking 2017
+86747RECAP_2017_0F,Autodesk ReCap 360 Pro
+86766NAVMAN_2017_0F,Autodesk Navisworks Manage 2017
+86777CADMEP_2017_0F,Autodesk Fabrication CADmep 2017
+86792SBRDES_2017_0F,Autodesk Structural Bridge Design 2017
+86815AECCOL_T_F,AEC Collection Package
+86822DYNSTD_2017_0F,Autodesk Dynamo Studio 2017
+86830ACD_2018_0F,Autodesk AutoCAD 2018
+86832ARDES_2018_0F,Autodesk AutoCAD Raster Design 2018
+868333DSMAX_2018_0F,Autodesk 3ds Max 2018
+86839AMECH_PP_2018_0F,Autodesk AutoCAD Mechanical 2018
+86855BLDSYS_2018_0F,Autodesk AutoCAD MEP 2018
+86856ARCHDESK_2018_0F,Autodesk AutoCAD Architecture 2018
+86857ADSTPR_2018_0F,Autodesk Advance Steel 2018
+86866MAP_2018_0F,Autodesk AutoCAD Map 3D 2018
+86893CIV3D_2018_0F,Autodesk Civil 3D 2018
+86894PLNT3D_2018_0F,Autodesk AutoCAD Plant 3D 2018
+86917RVT_2018_0F,Autodesk Revit 2018
+86919SBRDES_2018_0F,Autodesk Structural Bridge Design 2018
+86920VEHTRK_2018_0F,Autodesk Vehicle Tracking 2018
+86937LIVE_2018_0F,Autodesk Live
+86938CADMEP_2018_0F,Autodesk Fabrication CADmep 2018
+86941RSAPRO_2018_0F,Autodesk Robot Structural Analysis Professional 2018
+86984RECAP_2018_0F,Autodesk ReCap Pro
+86998NAVMAN_2018_0F,Autodesk Navisworks Manage 2018
+870723DSMAX_2019_0F,Autodesk 3ds Max 2019
+87084ACD_2019_0F,Autodesk AutoCAD 2019
+87086ARDES_2019_0F,Autodesk AutoCAD Raster Design 2019
+87087ARCHDESK_2019_0F,Autodesk AutoCAD Architecture 2019
+87088ACAD_E_2019_0F,Autodesk AutoCAD Electrical 2019
+87089AMECH_PP_2019_0F,Autodesk AutoCAD Mechanical 2019
+87090BLDSYS_2019_0F,Autodesk AutoCAD MEP 2019
+87091MAP_2019_0F,Autodesk AutoCAD Map 3D 2019
+87093RECAP_2019_0F,Autodesk ReCap Pro
+87096ADSTPR_2019_0F,Autodesk Advance Steel 2019
+87140CIV3D_2019_0F,Autodesk Civil 3D 2019
+87149RVT_2019_0F,Autodesk Revit 2019
+87151SBRDES_2019_0F,Autodesk Structural Bridge Design 2019
+87152VEHTRK_2019_0F,Autodesk Vehicle Tracking 2019
+87153PLNT3D_2019_0F,Autodesk AutoCAD Plant 3D 2019
+87166CADMEP_2019_0F,Autodesk Fabrication CADmep 2019
+87170RSAPRO_2019_0F,Autodesk Robot Structural Analysis Professional 2019
+87176NAVMAN_2019_0F,Autodesk Navisworks Manage 2019
+87195ACDIST_T_F,AutoCAD - including specialized toolsets Package
+87224ACD_2020_0F,Autodesk AutoCAD 2020
+87226ARDES_2020_0F,Autodesk AutoCAD Raster Design 2020
+87227ARCHDESK_2020_0F,Autodesk AutoCAD Architecture 2020
+87228ACAD_E_2020_0F,Autodesk AutoCAD Electrical 2020
+87229AMECH_PP_2020_0F,Autodesk AutoCAD Mechanical 2020
+87230BLDSYS_2020_0F,Autodesk AutoCAD MEP 2020
+87240MAP_2020_0F,Autodesk AutoCAD Map 3D 2020
+87241PLNT3D_2020_0F,Autodesk AutoCAD Plant 3D 2020
+872423DSMAX_2020_0F,Autodesk 3ds Max 2020
+87245RSAPRO_2020_0F,Autodesk Robot Structural Analysis Professional 2020
+87246ADSTPR_2020_0F,Autodesk Advance Steel 2020
+87251CIV3D_2020_0F,Autodesk Civil 3D 2020
+87259RVT_2020_0F,Autodesk Revit 2020
+87261SBRDES_2020_0F,Autodesk Structural Bridge Design 2020
+87263VEHTRK_2020_0F,Autodesk Vehicle Tracking 2020
+87282RECAP_2020_0F,Autodesk ReCap Pro 2020
+87306NAVMAN_2020_0F,Autodesk Navisworks Manage 2020
+87323CADMEP_2020_0F,Autodesk Fabrication CADmep 2020
+87387IW360P_2020_0F,Autodesk InfraWorks 2020
+87389RSAPRO_2021_0F,Autodesk Robot Structural Analysis Professional 2021
+87393ACD_2021_0F,Autodesk AutoCAD 2021
+87397ARDES_2021_0F,Autodesk AutoCAD Raster Design 2021
+87398ARCHDESK_2021_0F,Autodesk AutoCAD Architecture 2021
+87399ACAD_E_2021_0F,Autodesk AutoCAD Electrical 2021
+87400AMECH_PP_2021_0F,Autodesk AutoCAD Mechanical 2021
+87401BLDSYS_2021_0F,Autodesk AutoCAD MEP 2021
+87402PLNT3D_2021_0F,Autodesk AutoCAD Plant 3D 2021
+87403MAP_2021_0F,Autodesk AutoCAD Map 3D 2021
+87406NAVMAN_2021_0F,Autodesk Navisworks Manage 2021
+87423CADMEP_2021_0F,Autodesk Fabrication CADmep 2021
+87426IW360P_2021_0F,Autodesk InfraWorks 2021
+87427VEHTRK_2021_0F,Autodesk Vehicle Tracking 2021
+87428SBRDES_2021_0F,Autodesk Structural Bridge Design 2021
+87436ADSTPR_2021_0F,Autodesk Advance Steel 2021
+87443RVT_2021_0F,Autodesk Revit 2021
+87445CIV3D_2021_0F,Autodesk Civil 3D 2021
+874583DSMAX_2021_0F,Autodesk 3ds Max 2021
+87474RECAP_2021_0F,Autodesk ReCap Pro 2021
+87518RVTGD_2021_0F,Autodesk Revit Generative Design 2021
+87533RSAPRO_2022_0F,Autodesk Robot Structural Analysis Professional 2022
+87540ARCHDESK_2022_0F,Autodesk AutoCAD Architecture 2022
+87541ACAD_E_2022_0F,Autodesk AutoCAD Electrical 2022
+87542AMECH_PP_2022_0F,Autodesk AutoCAD Mechanical 2022
+87543BLDSYS_2022_0F,Autodesk AutoCAD MEP 2022
+87544PLNT3D_2022_0F,Autodesk AutoCAD Plant 3D 2022
+87545ACD_2022_0F,Autodesk AutoCAD 2022
+87547ARDES_2022_0F,Autodesk AutoCAD Raster Design 2022
+87548MAP_2022_0F,Autodesk AutoCAD Map 3D 2022
+87553ADSTPR_2022_0F,Autodesk Advance Steel 2022
+87556CIV3D_2022_0F,Autodesk Civil 3D 2022
+87557CADMEP_2022_0F,Autodesk Fabrication CADmep 2022
+87560IW360P_2022_0F,Autodesk InfraWorks 2022
+87561RVT_2022_0F,Autodesk Revit 2022
+87562RVTGD_2022_0F,Autodesk Revit 2022 - Generative Design
+87564SBRDES_2022_0F,Autodesk Structural Bridge Design 2022
+87565VEHTRK_2022_0F,Autodesk Vehicle Tracking 2022
+87566NAVMAN_2022_0F,Autodesk Navisworks Manage 2022
+875683DSMAX_2022_0F,Autodesk 3ds Max 2022
+87572C3DPE_2021_0F,Autodesk Civil 3D - Project Explorer 2021
+87615C3DPE_2022_0F,Autodesk Civil 3D - Project Explorer 2022
+87623RECAP_2022_0F,Autodesk ReCap Pro 2022
+87624C3DGO_2022_0F,Autodesk Civil 3D Grading Optimization 2022
+64300ACD_F,AutoCAD Package
+85536ACD_2011_0F,Autodesk AutoCAD 2011
+85730ACD_2012_0F,Autodesk AutoCAD 2012
+85871ACD_2013_0F,Autodesk AutoCAD 2013
+86609INVPROSA_2017_0F,Autodesk Inventor Professional 2017
+86659NINCAD_2017_0F,Autodesk Nastran In-CAD 2017
+86659NSTRN_2017_0F,Autodesk Nastran 2017
+86691FDU_2017_0F,Autodesk Factory Design Utilities 2017
+86744INVHSM_2017_0F,Autodesk Inventor HSM 2017
+86745INHSMP_2017_0F,Autodesk Inventor HSM Pro 2017
+86825INVPROSA_2018_0F,Autodesk Inventor Professional 2018
+86829PDCOLL_T_F,PD Collection Package Term
+86837FDU_2018_0F,Autodesk Factory Design Utilities 2018
+86922HSMPRM_2017_0F,HSMWorks Ultimate 2017
+86923HSMPRO_2017_0F,HSMWorks Premium 2017
+86933INHSMP_2018_0F,Autodesk Inventor HSM Ultimate 2018
+86982NSTRN_2018_0F,Autodesk Nastran 2018
+86983NINCAD_2018_0F,Autodesk Nastran In-CAD 2018
+87036HSMPRM_2018_0F,HSMWorks Ultimate 2018
+87059INHSMP_2019_0F,Autodesk Inventor HSM Ultimate 2019
+87061FDU_2019_0F,Autodesk Factory Design Utilities 2019
+87068INVPROSA_2019_0F,Autodesk Inventor Professional 2019
+87175HSMPRM_2019_0F,HSMWorks Ultimate 2019
+87205NSTRN_2019_0F,Autodesk Nastran 2019
+87206NINCAD_2019_0F,Autodesk Nastran In-CAD 2019
+87211TNNUINV_2019_0F,Autodesk Nesting Utility 2019
+87235INVPROSA_2020_0F,Autodesk Inventor Professional 2020
+87268INHSMP_2020_0F,Autodesk Inventor HSM Ultimate 2020
+87269HSMPRM_2020_0F,HSMWorks Ultimate 2020
+87284INVTOL_2019_0F,Autodesk Inventor Tolerance Analysis 2019
+87302NINCAD_2020_0F,Autodesk Nastran In-CAD 2020
+87309FDU_2020_0F,Autodesk Factory Design Utilities 2020
+87361TNNUINV_2020_0F,Autodesk Nesting Utility 2020
+87381INVTOL_2020_0F,Autodesk Inventor Tolerance Analysis 2020
+87385INVPROSA_2021_0F,Autodesk Inventor Professional 2021
+87438HSMPRM_2021_0F,Autodesk HSMWorks Premium 2021
+87442INHSMP_2021_0F,Autodesk Inventor CAM Ultimate 2021
+87457FDU_2021_0F,Autodesk Factory Design Utilities 2021
+87475NINCAD_2021_0F,Autodesk Inventor Nastran 2021
+87514TNNUINV_2021_0F,Autodesk Inventor Nesting 2021
+87529INVTOL_2021_0F,Autodesk Inventor Tolerance Analysis 2021
+87537INVPROSA_2022_0F,Autodesk Inventor Professional 2022
+87577INHSMP_2022_0F,Autodesk Inventor CAM Ultimate 2022
+87579HSMPRM_2022_0F,Autodesk HSMWorks Premium 2022
+87625NINCAD_2022_0F,Autodesk Inventor Nastran 2022
+87635FDU_2022_0F,Autodesk Factory Design Utilities 2022
+87647TNNUINV_2022_0F,Autodesk Inventor Nesting 2022
+87656INVTOL_2022_0F,Autodesk Inventor Tolerance Analysis 2022
+n10f,NULL
+n10g,NULL
+n10h,NULL
+n10i,NULL
+ACT,NULL
+ARC/INFO,ArcGIS Desktop Advanced
+ArcStorm,NULL
+ArcStormEnable,NULL
+Grid,ArcGIS Spatial Analyst Desktop
+MrSID,NULL
+Plotting,NULL
+TIFFLZW,NULL
+TIN,ArcGIS 3D Analyst Desktop
+Viewer,ArcGIS Desktop Basic
+GlobalMapper,Global Mapper
+Compiler,MATLAB Compiler
+Curve_Fitting_Toolbox,MATLAB Curve Fitting Toolbox
+MAP_Toolbox,MATLAB Mapping Toolbox
+MATLAB,MATLAB
+Signal_Toolbox,MATLAB Signal Processing Toolbox
+Statistics_Toolbox,MATLAB Statistics and Machine Learning Toolbox
+Symbolic_Toolbox,MATLAB Symbolic Math Toolbox
+254,NULL
+255,NULL
+256,NULL
+257,NULL
+MATHCAD,MathCAD
+MathcadPrime,MathCAD Prime
+MATLAB @ ID=40631554,NULL
+SAPAD v24,SAP2000 Advanced v24
+SAPUL v24,SAP2000 Ultimate v24
+SafePT v2016,NULL
+SafePT v20,NULL
+86867UTLDESN_2018_0F,Autodesk AutoCAD Utility Design 2018
+87674INVPROSA_2023_0F,Autodesk Inventor Professional 2023
+87675RSAPRO_2023_0F,Autodesk Robot Structural Analysis Professional 2023
+87676ACD_2023_0F,Autodesk AutoCAD 2023
+87678ARDES_2023_0F,Autodesk AutoCAD Raster Design 2023
+87680MAP_2023_0F,Autodesk AutoCAD Map 3D 2023
+87681ARCHDESK_2023_0F,Autodesk AutoCAD Architecture 2023
+87682ACAD_E_2023_0F,Autodesk AutoCAD Electrical 2023
+87683AMECH_PP_2023_0F,Autodesk AutoCAD Mechanical 2023
+87684BLDSYS_2023_0F,Autodesk AutoCAD MEP 2023
+87685PLNT3D_2023_0F,Autodesk AutoCAD Plant 3D 2023
+87686ADSTPR_2023_0F,Autodesk Advance Steel 2023
+87687CIV3D_2023_0F,Autodesk Civil 3D 2023
+87688RVT_2023_0F,Autodesk Revit 2023
+876933DSMAX_2023_0F,Autodesk 3ds Max 2023
+87696NAVMAN_2023_0F,Autodesk Navisworks Manage 2023
+87701INHSMP_2023_0F,Autodesk Inventor CAM Ultimate 2023
+87703HSMPRM_2023_0F,Autodesk HSMWorks Premium 2023
+87724RVTGD_2023_0F,Autodesk Revit 2023 - Generative Design
+87739RECAP_2023_0F,Autodesk ReCap Pro 2023
+87759C3DPE_2023_0F,Autodesk Civil 3D - Project Explorer 2023
+87760C3DGO_2023_0F,Autodesk Civil 3D Grading Optimization 2023
+87761CADMEP_2023_0F,Autodesk Fabrication CADmep 2023
+87764IW360P_2023_0F,Autodesk InfraWorks 2023
+87766SBRDES_2023_0F,Autodesk Structural Bridge Design 2023
+87767VEHTRK_2023_0F,Autodesk Vehicle Tracking 2023
+87775NINCAD_2023_0F,Autodesk Inventor Nastran 2023
+87782FDU_2023_0F,Autodesk Factory Design Utilities 2023
+87783TNNUINV_2023_0F,Autodesk Inventor Nesting 2023
+87784INVTOL_2023_0F,Autodesk Inventor Tolerance Analysis 2023
+Statistics_Toolbox @ ID=40631554,NULL
+Symbolic_Toolbox @ ID=40631554,NULL
+86445ACD_2016_0F,Autodesk AutoCAD 2016
+86453RVT_2016_0F,Autodesk Revit 2016
+86514CIV3D_2016_0F,Autodesk Civil 3D 2016
+CSiDet v20,NULL
+64300ACD_T_F,Autodesk AutoCAD (2014-2017)
