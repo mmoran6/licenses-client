@@ -112,15 +112,16 @@ function Licenses() {
                                                 const currentTime1 = new Date(parseInt(dateString1))
                                                 const currentTime2 = new Date(parseInt(dateString2))
 
-                                                const resta = currentTime1.getTime() - currentTime2.getTime()
-                                                
+                                                const dif = currentTime1.getTime() - currentTime2.getTime()
+                                                const parseDate = new Date(parseInt(dif))
+                                                const timeInUse = parseDate.toLocaleTimeString()
+                                 
 
-                                              const time = (resta/1000)/60
                                                 return (
                                                     <div key={person.UserName} className="accordion-body-content">
                                                       <p>{person.UserName}</p>
                                                       <p>Checked out license at {currentTime.toLocaleDateString()} {currentTime.toLocaleTimeString()} </p>
-                                                      <p>{time}</p>
+                                                      <p>Hours used {timeInUse}</p>
                                                     </div>
                                                
                                                 )
