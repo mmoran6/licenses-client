@@ -1,0 +1,25 @@
+.licenses-container {
+    margin: 0 20em;
+}
+
+.licenses-container h2 {
+    margin-bottom: 1em;
+}
+
+.accordion-body-content {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.accordion-body-content p:first-child{
+    width: 20%;
+    color: #bf1525;
+    font-weight: 600
+}
+
+/* .accordion-button:not(.collapsed) {
+    background-color: #bf15260e !important; 
+    color: #bf1225 !important;
+    box-shadow:  0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+} */

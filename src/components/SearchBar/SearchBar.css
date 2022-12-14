@@ -11,15 +11,11 @@
 }
 
 .search-bar div:last-child {
-    
     padding: 7px 15px;
     border-radius: 10px;
 }
 
 .iconSearch{
-    background-color:  #ff949f;
-
+    background-color: #bf1525;
     color:white
-    
-
 }

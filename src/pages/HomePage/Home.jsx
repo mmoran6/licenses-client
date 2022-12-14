@@ -1,55 +1,62 @@
 import { useEffect, useState } from "react";
 import details from "../../data/details.txt";
-import features from "../../data/features.txt";
-import * as d3Fetch from 'd3-fetch'
+import features from "../../data/features.txt"
+import Card from "../../components/Card/Card";
+import './Home.css'
+
 
 const Home = () => {
   const [license, setLicense] = useState()
   const [name, setName] = useState([])
-  const [rows, setRows] = useState([])
+
 
   //leer txt con licencias
   const data = () => {
     fetch(features)
       .then(response => response.json())
-      .then(data => console.log(data))
+      .then(data => {
+        setLicense(data)
+        single(data)
+      })
   }
 
 
+
   const single = (array) => {
-
     const single = []
-    array.forEach((element) => {
-
+    
+    array?.forEach((element) => {
       if (!(single.includes(element.PortAtServer))) {
-        console.log("entro")
         single.push(element.PortAtServer)
       }
     })
 
     setName(single)
-
-    console.log(single)
   }
 
-  const dictionary = () => {
-    d3Fetch.csv('/dictionary-table.csv').then((data) => {
-      console.log(data);
-    }) 
-  }
- 
 
   useEffect(() => {
     data()
-    dictionary()
+    single(license)
   }, []);
 
 
   return (
-    <>
-      <h1>hola</h1>
-
-    </>
+    <div className="main-content">
+      {/* <Aside info={name}></Aside>
+    
+        {
+          dictionaryCSV !== undefined && (
+            dictionaryCSV.map((element, index) => <Card element={element} key={index} className="card"></Card>)
+          )
+        }
+       */}
+      <div className="card-container">
+        {
+          name.map(element => <Card key={element} info={element}></Card>)
+        }
+      </div>
+    </div>
   )
 }
 

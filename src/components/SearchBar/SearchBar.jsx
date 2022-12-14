@@ -1,5 +1,6 @@
 import Form from 'react-bootstrap/Form';
 import './SearchBar.css'
+import SearchIcon from '@mui/icons-material/Search';
 
 const SearchBar = () => {
     return (
@@ -8,7 +9,7 @@ const SearchBar = () => {
                 <Form.Control type="text" />
             </div>
             <div className="iconSearch">
-                <img src='https://www.systemuicons.com/images/icons/search.svg'></img>
+                <SearchIcon></SearchIcon>
             </div>
         </Form>
     )

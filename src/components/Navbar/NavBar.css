@@ -11,6 +11,14 @@
     font-weight: 700;
 }
 
+.logo {
+    width: 40%;
+    
+}
+
+.me-auto {
+    margin-left: -100px;
+}
 
 
 .me-auto a:nth-child(1n+1) {
@@ -19,5 +27,8 @@
     font-weight: 300;
 }
 
+.me-auto a:hover {
+    color: #bf1525;
+}
 
 

@@ -7,7 +7,7 @@ import './NavBar.css'
 const NavBar = () => {
     return (
         <Navbar className='my-3 mx-3 navbar'>
-            <Link to="/">TYPSA</Link>
+            <Link to="/"><img src='https://typsa.net/img/parte/TYPSA.JPG' className='logo'/></Link>
             <Nav className="me-auto">
                 <Link to="/available">Disponible</Link>
                 <Link to="/notAvailable">No Disponible</Link>
