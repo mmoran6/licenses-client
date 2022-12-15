@@ -11,10 +11,13 @@ function Licenses() {
     const [licenseList, setLicenseList] = useState()
     const [dictionaryCSV, setDictionaryCSV] = useState([])
     const [detailsList, setDetailsList] = useState()
+
     const names = []
     const infoAboutLicense = []
     const namesAndFeatures = []
+
     let counter = 0
+    let newName
 
     const filtered = licenseList?.filter(license => license.PortAtServer === info)
 
@@ -56,7 +59,7 @@ function Licenses() {
     }
 
 
-    const moreInfo = () => { ///////buscar la manera de recoger a las personas que la utilizan y que solo salgan en sus licencias
+    const moreInfo = () => { 
         filtered?.map(elementFiltered => {
             detailsList?.map(elementDetails => {
                 if (elementFiltered.Feature === elementDetails.Feature) {
@@ -65,18 +68,37 @@ function Licenses() {
             })
         })
     }
-
-    function secondsToString(seconds) {
-        var hour = Math.floor(seconds / 3600);
-        hour = (hour < 10)? '0' + hour : hour;
-        var minute = Math.floor((seconds / 60) % 60);
-        minute = (minute < 10)? '0' + minute : minute;
-        var second = seconds % 60;
-        second = (second < 10)? '0' + second : second;
-        return hour + ':' + minute + ':' + second;
+    const newNames = (info) => {
+        switch (info) {
+          case "1055@ANSYS":
+            newName = "1055@ANSYS"
+            break;
+          case "27000@ADESK-ETR":
+            newName = "27000@AUTODESK España"
+            break;
+          case "27000@AUTODESK":
+            newName = "27000@AUTODESK Global"
+            break;
+          case "27000@ESRI":
+            newName = "27000@AUTODESK España"
+            break;
+          case "27000@GlobalMapper":
+            newName = "27000@Global Mapper"
+            break;
+          case "27001@Matlab":
+            newName = "27001@Matlab"
+            break;
+          case "7788@MathCAD-L":
+            newName = "MathCAD España"
+            break;
+          case "7788@MathCAD-G":
+            newName = "MathCAD Global"
+            break;
+          case "0@LICENCIAS.typsa.es":
+            newName = "SAP2000 / ETABS / SAFE (España)"
+            break;
+        }
       }
-
-
 
     useEffect(() => {
         data()
@@ -86,10 +108,12 @@ function Licenses() {
 
     mapNames()
     moreInfo()
+    newNames(info)
+    
 
     return (
         <div className="licenses-container">
-            <h2>Licencias de {info}</h2>
+            <h2>Licencias de {newName}</h2>
             <Accordion>
                 {
                     namesAndFeatures.map((element, index) => {
@@ -118,12 +142,11 @@ function Licenses() {
                                  
 
                                                 return (
-                                                    <div key={person.UserName} className="accordion-body-content">
-                                                      <p>{person.UserName}</p>
+                                                    <div key={key} className="accordion-body-content">
+                                                      <p>{person.UserName}@{person.UserHost}</p>
                                                       <p>Checked out license at {currentTime.toLocaleDateString()} {currentTime.toLocaleTimeString()} </p>
                                                       <p>Hours used {timeInUse}</p>
                                                     </div>
-                                               
                                                 )
                                             }   
                                         }) 
