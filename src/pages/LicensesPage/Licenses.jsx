@@ -141,7 +141,7 @@ function Licenses() {
             />
             <Accordion>
                 {
-                    search ? filterFeature?.map((element, index) => {
+                    (search ? (filterFeature) : (namesAndFeatures)).map((element, index) => {
                         counter = 0;
                         return (
                             <Accordion.Item eventKey={index} key={index}>
@@ -181,55 +181,6 @@ function Licenses() {
                             </Accordion.Item>
                         );
                     })
-                        : namesAndFeatures?.map((element, index) => {
-                            counter = 0;
-                            return (
-                                <Accordion.Item eventKey={index} key={index}>
-                                    <Accordion.Header>{element.name}</Accordion.Header>
-                                    <Accordion.Body>
-                                        {
-                                        infoAboutLicense.map((person, key) => {
-                                            if (person.Feature === element.feature) {
-                                                counter++;
-
-                                                const dateString = person.CheckedOutDate.substr(6);
-                                                const currentTime = new Date(parseInt(dateString));
-
-
-                                                const dateString1 = person.SnapShotDate.substr(6);
-                                                const dateString2 = person.CheckedOutDate.substr(6);
-
-
-                                                const currentTime1 = new Date(parseInt(dateString1));
-                                                const currentTime2 = new Date(parseInt(dateString2));
-
-                                                const dif = currentTime1.getTime() - currentTime2.getTime();
-                                                const parseDate = new Date(parseInt(dif));
-
-                                                const timeInUse = parseDate.toLocaleTimeString();
-
-
-                                                return (
-                                                    <div key={key} className="accordion-body-content">
-                                                        <p>{person.UserName}@{person.UserHost}</p>
-                                                        <p>Checked out license at{" "}{currentTime.toLocaleDateString()}{" "}{currentTime.toLocaleTimeString()}{" "} </p>
-                                                        <p>Hours used {timeInUse}</p>
-                                                    </div>
-                                                );
-                                            }
-                                        })
-                                        }
-                                        
-                                        {
-                                        counter === 0 ? (
-
-                                            <p style={{ color: "#bf1525" }}>No hay nadie usando la licencia</p>
-                                        ) : null
-                                        }
-                                    </Accordion.Body>
-                                </Accordion.Item>
-                            );
-                        })
                 }
             </Accordion>
         </div>
