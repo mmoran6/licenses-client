@@ -1,2347 +1,2347 @@
 [
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "a_spaceclaim_dirmod",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "a_spaceclaim_faceteddata",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "advanced_meshing",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "dsdxm",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "mech_2",
-        "AvailableLicences": 1,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "rdacis",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "1055@ANSYS",
-        "Feature": "rdpara",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86063ACD_2014_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86075RVT_2014_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86173CIV3D_2014_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86273RVT_2015_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86295ACD_2015_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86354CIV3D_2015_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86445ACD_2016_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86453RVT_2016_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86514CIV3D_2016_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86604ACD_2017_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86635ACAD_E_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86706RVT_2017_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86718CIV3D_2017_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86815AECCOL_T_F",
-        "AvailableLicences": 50,
-        "UsedLicences": 23,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86830ACD_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 5,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86832ARDES_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "868333DSMAX_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86839AMECH_PP_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86855BLDSYS_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86856ARCHDESK_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86857ADSTPR_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86866MAP_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86867UTLDESN_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86893CIV3D_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86894PLNT3D_2018_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86917RVT_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86919SBRDES_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86920VEHTRK_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86937LIVE_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86938CADMEP_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86941RSAPRO_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86984RECAP_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "86998NAVMAN_2018_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "870723DSMAX_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87084ACD_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 4,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87086ARDES_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87087ARCHDESK_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87088ACAD_E_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87089AMECH_PP_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87090BLDSYS_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87091MAP_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87093RECAP_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87096ADSTPR_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87140CIV3D_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87149RVT_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87151SBRDES_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87152VEHTRK_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87153PLNT3D_2019_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87166CADMEP_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87170RSAPRO_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87176NAVMAN_2019_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87195ACDIST_T_F",
-        "AvailableLicences": 21,
-        "UsedLicences": 21,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87224ACD_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 7,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87226ARDES_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87227ARCHDESK_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87228ACAD_E_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87229AMECH_PP_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87230BLDSYS_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87240MAP_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87241PLNT3D_2020_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "872423DSMAX_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87245RSAPRO_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87246ADSTPR_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87251CIV3D_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87259RVT_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87261SBRDES_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87263VEHTRK_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87282RECAP_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87306NAVMAN_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87323CADMEP_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87387IW360P_2020_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87389RSAPRO_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87393ACD_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 5,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87397ARDES_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87398ARCHDESK_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87399ACAD_E_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87400AMECH_PP_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87401BLDSYS_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87402PLNT3D_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87403MAP_2021_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87406NAVMAN_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87423CADMEP_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87426IW360P_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87427VEHTRK_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87428SBRDES_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87436ADSTPR_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87443RVT_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87445CIV3D_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 6,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "874583DSMAX_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87474RECAP_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87518RVTGD_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87533RSAPRO_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87540ARCHDESK_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87541ACAD_E_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87542AMECH_PP_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87543BLDSYS_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87544PLNT3D_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87545ACD_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 3,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87547ARDES_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87548MAP_2022_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87553ADSTPR_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87556CIV3D_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87557CADMEP_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87560IW360P_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87561RVT_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87562RVTGD_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87564SBRDES_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87565VEHTRK_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87566NAVMAN_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "875683DSMAX_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87572C3DPE_2021_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87615C3DPE_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87623RECAP_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87624C3DGO_2022_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87675RSAPRO_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87676ACD_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87678ARDES_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87680MAP_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87681ARCHDESK_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87682ACAD_E_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87683AMECH_PP_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87684BLDSYS_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87685PLNT3D_2023_0F",
-        "AvailableLicences": 71,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87686ADSTPR_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87687CIV3D_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87688RVT_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "876933DSMAX_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87696NAVMAN_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87724RVTGD_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87739RECAP_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87759C3DPE_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87760C3DGO_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87761CADMEP_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87764IW360P_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87766SBRDES_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ADESK-ETR",
-        "Feature": "87767VEHTRK_2023_0F",
-        "AvailableLicences": 50,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86295ACD_2015_0F",
-        "AvailableLicences": 21,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86445ACD_2016_0F",
-        "AvailableLicences": 26,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86604ACD_2017_0F",
-        "AvailableLicences": 31,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86635ACAD_E_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86815AECCOL_T_F",
-        "AvailableLicences": 36,
-        "UsedLicences": 34,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86825INVPROSA_2018_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86829PDCOLL_T_F",
-        "AvailableLicences": 6,
-        "UsedLicences": 6,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86830ACD_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 5,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86832ARDES_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "868333DSMAX_2018_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86837FDU_2018_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86839AMECH_PP_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86855BLDSYS_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86856ARCHDESK_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86857ADSTPR_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86866MAP_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86867UTLDESN_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86893CIV3D_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86894PLNT3D_2018_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86917RVT_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86919SBRDES_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86920VEHTRK_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86933INHSMP_2018_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86937LIVE_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86938CADMEP_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86941RSAPRO_2018_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86982NSTRN_2018_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86983NINCAD_2018_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86984RECAP_2018_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "86998NAVMAN_2018_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87036HSMPRM_2018_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87059INHSMP_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87061FDU_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87068INVPROSA_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "870723DSMAX_2019_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87084ACD_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 6,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87086ARDES_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87087ARCHDESK_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87088ACAD_E_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87089AMECH_PP_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87090BLDSYS_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87091MAP_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87093RECAP_2019_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87096ADSTPR_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87140CIV3D_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87149RVT_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87151SBRDES_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87152VEHTRK_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87153PLNT3D_2019_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87166CADMEP_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87170RSAPRO_2019_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87175HSMPRM_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87176NAVMAN_2019_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87195ACDIST_T_F",
-        "AvailableLicences": 20,
-        "UsedLicences": 20,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87205NSTRN_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87206NINCAD_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87211TNNUINV_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87224ACD_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 8,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87226ARDES_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87227ARCHDESK_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87228ACAD_E_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87229AMECH_PP_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87230BLDSYS_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87235INVPROSA_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87240MAP_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87241PLNT3D_2020_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "872423DSMAX_2020_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87245RSAPRO_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87246ADSTPR_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87251CIV3D_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87259RVT_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 4,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87261SBRDES_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87263VEHTRK_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87268INHSMP_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87269HSMPRM_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87282RECAP_2020_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87284INVTOL_2019_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87302NINCAD_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87306NAVMAN_2020_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87309FDU_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87323CADMEP_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87361TNNUINV_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87381INVTOL_2020_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87385INVPROSA_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87387IW360P_2020_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87389RSAPRO_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87393ACD_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 10,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87397ARDES_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87398ARCHDESK_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87399ACAD_E_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87400AMECH_PP_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87401BLDSYS_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87402PLNT3D_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87403MAP_2021_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87406NAVMAN_2021_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87423CADMEP_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87426IW360P_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87427VEHTRK_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87428SBRDES_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87436ADSTPR_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87438HSMPRM_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87442INHSMP_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87443RVT_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87445CIV3D_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 9,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87457FDU_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "874583DSMAX_2021_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87474RECAP_2021_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87475NINCAD_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87514TNNUINV_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87518RVTGD_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87529INVTOL_2021_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87533RSAPRO_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87537INVPROSA_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87540ARCHDESK_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87541ACAD_E_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87542AMECH_PP_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87543BLDSYS_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87544PLNT3D_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87545ACD_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 3,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87547ARDES_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87548MAP_2022_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87553ADSTPR_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87556CIV3D_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 4,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87557CADMEP_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87560IW360P_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87561RVT_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87562RVTGD_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87564SBRDES_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87565VEHTRK_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87566NAVMAN_2022_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "875683DSMAX_2022_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87572C3DPE_2021_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87577INHSMP_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87579HSMPRM_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87615C3DPE_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87623RECAP_2022_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87624C3DGO_2022_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87625NINCAD_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87635FDU_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87647TNNUINV_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87656INVTOL_2022_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87674INVPROSA_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87675RSAPRO_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87676ACD_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87678ARDES_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87680MAP_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87681ARCHDESK_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87682ACAD_E_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87683AMECH_PP_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87684BLDSYS_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87685PLNT3D_2023_0F",
-        "AvailableLicences": 62,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87686ADSTPR_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87687CIV3D_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87688RVT_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "876933DSMAX_2023_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87696NAVMAN_2023_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87701INHSMP_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87703HSMPRM_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87724RVTGD_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87739RECAP_2023_0F",
-        "AvailableLicences": 42,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87759C3DPE_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87760C3DGO_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87761CADMEP_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87764IW360P_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87766SBRDES_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87767VEHTRK_2023_0F",
-        "AvailableLicences": 36,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87775NINCAD_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87782FDU_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87783TNNUINV_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@AUTODESK",
-        "Feature": "87784INVTOL_2023_0F",
-        "AvailableLicences": 6,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ESRI",
-        "Feature": "ARC/INFO",
-        "AvailableLicences": 4,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ESRI",
-        "Feature": "Grid",
-        "AvailableLicences": 4,
-        "UsedLicences": 4,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ESRI",
-        "Feature": "TIN",
-        "AvailableLicences": 4,
-        "UsedLicences": 4,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@ESRI",
-        "Feature": "Viewer",
-        "AvailableLicences": 3,
-        "UsedLicences": 2,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27000@GlobalMapper",
-        "Feature": "GlobalMapper",
-        "AvailableLicences": 5,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "Compiler",
-        "AvailableLicences": 2,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "Curve_Fitting_Toolbox",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "MAP_Toolbox",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "MATLAB",
-        "AvailableLicences": 2,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "Signal_Toolbox",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "Statistics_Toolbox",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "27001@Matlab",
-        "Feature": "Symbolic_Toolbox",
-        "AvailableLicences": 1,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "7788@MathCAD-G",
-        "Feature": "MATHCAD",
-        "AvailableLicences": 4,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "7788@MathCAD-G",
-        "Feature": "MathcadPrime",
-        "AvailableLicences": 5,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "7788@MathCAD-L",
-        "Feature": "MATHCAD",
-        "AvailableLicences": 4,
-        "UsedLicences": 0,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "7788@MathCAD-L",
-        "Feature": "MathcadPrime",
-        "AvailableLicences": 4,
-        "UsedLicences": 1,
-        "FeatureStatus": null
-    },
-    {
-        "PortAtServer": "0@LICENCIAS.typsa.es",
-        "Feature": "SAPAD v23",
-        "AvailableLicences": 4,
-        "UsedLicences": 1,
-        "FeatureStatus": ""
-    },
-    {
-        "PortAtServer": "0@LICENCIAS.typsa.es",
-        "Feature": "SAPAD v24",
-        "AvailableLicences": 4,
-        "UsedLicences": 1,
-        "FeatureStatus": ""
-    },
-    {
-        "PortAtServer": "0@LICENCIAS.typsa.es",
-        "Feature": "SAPPL v23",
-        "AvailableLicences": 22,
-        "UsedLicences": 8,
-        "FeatureStatus": ""
-    },
-    {
-        "PortAtServer": "0@LICENCIAS.typsa.es",
-        "Feature": "SAPPL v24",
-        "AvailableLicences": 22,
-        "UsedLicences": 2,
-        "FeatureStatus": ""
-    },
-    {
-        "PortAtServer": "0@LICENCIAS.typsa.es",
-        "Feature": "SAPUL v23",
-        "AvailableLicences": 3,
-        "UsedLicences": 3,
-        "FeatureStatus": ""
-    },
-    {
-        "PortAtServer": "0@LICENCIAS.typsa.es",
-        "Feature": "SAPUL v24",
-        "AvailableLicences": 3,
-        "UsedLicences": 3,
-        "FeatureStatus": ""
-    }
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "a_spaceclaim_dirmod",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "a_spaceclaim_faceteddata",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "advanced_meshing",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "dsdxm",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "mech_2",
+    "AvailableLicences": 1,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "rdacis",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "1055@ANSYS",
+    "Feature": "rdpara",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86063ACD_2014_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86075RVT_2014_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86173CIV3D_2014_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86273RVT_2015_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86295ACD_2015_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86354CIV3D_2015_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86445ACD_2016_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86453RVT_2016_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86514CIV3D_2016_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86604ACD_2017_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86635ACAD_E_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86706RVT_2017_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86718CIV3D_2017_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86815AECCOL_T_F",
+    "AvailableLicences": 50,
+    "UsedLicences": 38,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86830ACD_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 6,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86832ARDES_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "868333DSMAX_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86839AMECH_PP_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86855BLDSYS_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86856ARCHDESK_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86857ADSTPR_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86866MAP_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86867UTLDESN_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86893CIV3D_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86894PLNT3D_2018_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86917RVT_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86919SBRDES_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86920VEHTRK_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86937LIVE_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86938CADMEP_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86941RSAPRO_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86984RECAP_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "86998NAVMAN_2018_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "870723DSMAX_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87084ACD_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 6,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87086ARDES_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87087ARCHDESK_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87088ACAD_E_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87089AMECH_PP_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87090BLDSYS_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87091MAP_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87093RECAP_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87096ADSTPR_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87140CIV3D_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87149RVT_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87151SBRDES_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87152VEHTRK_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87153PLNT3D_2019_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87166CADMEP_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87170RSAPRO_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87176NAVMAN_2019_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87195ACDIST_T_F",
+    "AvailableLicences": 21,
+    "UsedLicences": 18,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87224ACD_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 5,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87226ARDES_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87227ARCHDESK_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87228ACAD_E_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87229AMECH_PP_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87230BLDSYS_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87240MAP_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87241PLNT3D_2020_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "872423DSMAX_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87245RSAPRO_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87246ADSTPR_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87251CIV3D_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87259RVT_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87261SBRDES_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87263VEHTRK_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87282RECAP_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87306NAVMAN_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 4,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87323CADMEP_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87387IW360P_2020_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87389RSAPRO_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87393ACD_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 6,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87397ARDES_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87398ARCHDESK_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87399ACAD_E_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87400AMECH_PP_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87401BLDSYS_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87402PLNT3D_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87403MAP_2021_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87406NAVMAN_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87423CADMEP_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87426IW360P_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87427VEHTRK_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87428SBRDES_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87436ADSTPR_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87443RVT_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87445CIV3D_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 8,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "874583DSMAX_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87474RECAP_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87518RVTGD_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87533RSAPRO_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87540ARCHDESK_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87541ACAD_E_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87542AMECH_PP_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87543BLDSYS_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87544PLNT3D_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87545ACD_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87547ARDES_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87548MAP_2022_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87553ADSTPR_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87556CIV3D_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87557CADMEP_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87560IW360P_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87561RVT_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87562RVTGD_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87564SBRDES_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87565VEHTRK_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87566NAVMAN_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "875683DSMAX_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87572C3DPE_2021_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87615C3DPE_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87623RECAP_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87624C3DGO_2022_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87675RSAPRO_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87676ACD_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87678ARDES_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87680MAP_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87681ARCHDESK_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87682ACAD_E_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87683AMECH_PP_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87684BLDSYS_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87685PLNT3D_2023_0F",
+    "AvailableLicences": 71,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87686ADSTPR_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87687CIV3D_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87688RVT_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "876933DSMAX_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87696NAVMAN_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87724RVTGD_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87739RECAP_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87759C3DPE_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87760C3DGO_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87761CADMEP_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87764IW360P_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87766SBRDES_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ADESK-ETR",
+    "Feature": "87767VEHTRK_2023_0F",
+    "AvailableLicences": 50,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86295ACD_2015_0F",
+    "AvailableLicences": 26,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86445ACD_2016_0F",
+    "AvailableLicences": 31,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86604ACD_2017_0F",
+    "AvailableLicences": 31,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86635ACAD_E_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86815AECCOL_T_F",
+    "AvailableLicences": 41,
+    "UsedLicences": 41,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86825INVPROSA_2018_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86829PDCOLL_T_F",
+    "AvailableLicences": 6,
+    "UsedLicences": 6,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86830ACD_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 4,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86832ARDES_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "868333DSMAX_2018_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86837FDU_2018_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86839AMECH_PP_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86855BLDSYS_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86856ARCHDESK_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86857ADSTPR_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86866MAP_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86867UTLDESN_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86893CIV3D_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86894PLNT3D_2018_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86917RVT_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86919SBRDES_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86920VEHTRK_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86933INHSMP_2018_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86937LIVE_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86938CADMEP_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86941RSAPRO_2018_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86982NSTRN_2018_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86983NINCAD_2018_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86984RECAP_2018_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "86998NAVMAN_2018_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87036HSMPRM_2018_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87059INHSMP_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87061FDU_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87068INVPROSA_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "870723DSMAX_2019_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87084ACD_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 5,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87086ARDES_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87087ARCHDESK_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87088ACAD_E_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87089AMECH_PP_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87090BLDSYS_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87091MAP_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87093RECAP_2019_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87096ADSTPR_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87140CIV3D_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87149RVT_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87151SBRDES_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87152VEHTRK_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87153PLNT3D_2019_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87166CADMEP_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87170RSAPRO_2019_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87175HSMPRM_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87176NAVMAN_2019_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87195ACDIST_T_F",
+    "AvailableLicences": 20,
+    "UsedLicences": 20,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87205NSTRN_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87206NINCAD_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87211TNNUINV_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87224ACD_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 8,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87226ARDES_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87227ARCHDESK_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87228ACAD_E_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87229AMECH_PP_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87230BLDSYS_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87235INVPROSA_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87240MAP_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87241PLNT3D_2020_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "872423DSMAX_2020_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87245RSAPRO_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87246ADSTPR_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87251CIV3D_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 3,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87259RVT_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 3,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87261SBRDES_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87263VEHTRK_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87268INHSMP_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87269HSMPRM_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87282RECAP_2020_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87284INVTOL_2019_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87302NINCAD_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87306NAVMAN_2020_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 4,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87309FDU_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87323CADMEP_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87361TNNUINV_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87381INVTOL_2020_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87385INVPROSA_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87387IW360P_2020_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87389RSAPRO_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87393ACD_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 12,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87397ARDES_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87398ARCHDESK_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87399ACAD_E_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87400AMECH_PP_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87401BLDSYS_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87402PLNT3D_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87403MAP_2021_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87406NAVMAN_2021_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87423CADMEP_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87426IW360P_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87427VEHTRK_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87428SBRDES_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87436ADSTPR_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87438HSMPRM_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87442INHSMP_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87443RVT_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87445CIV3D_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 10,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87457FDU_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "874583DSMAX_2021_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87474RECAP_2021_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87475NINCAD_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87514TNNUINV_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87518RVTGD_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87529INVTOL_2021_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87533RSAPRO_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87537INVPROSA_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87540ARCHDESK_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87541ACAD_E_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87542AMECH_PP_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87543BLDSYS_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87544PLNT3D_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87545ACD_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 2,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87547ARDES_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87548MAP_2022_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87553ADSTPR_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87556CIV3D_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 6,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87557CADMEP_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87560IW360P_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87561RVT_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 3,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87562RVTGD_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87564SBRDES_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87565VEHTRK_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87566NAVMAN_2022_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 3,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "875683DSMAX_2022_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87572C3DPE_2021_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87577INHSMP_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87579HSMPRM_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87615C3DPE_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87623RECAP_2022_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87624C3DGO_2022_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87625NINCAD_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87635FDU_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87647TNNUINV_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87656INVTOL_2022_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87674INVPROSA_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87675RSAPRO_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87676ACD_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87678ARDES_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87680MAP_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87681ARCHDESK_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87682ACAD_E_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87683AMECH_PP_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87684BLDSYS_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87685PLNT3D_2023_0F",
+    "AvailableLicences": 67,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87686ADSTPR_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87687CIV3D_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87688RVT_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "876933DSMAX_2023_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87696NAVMAN_2023_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87701INHSMP_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87703HSMPRM_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87724RVTGD_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87739RECAP_2023_0F",
+    "AvailableLicences": 47,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87759C3DPE_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87760C3DGO_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87761CADMEP_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87764IW360P_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87766SBRDES_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87767VEHTRK_2023_0F",
+    "AvailableLicences": 41,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87775NINCAD_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87782FDU_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87783TNNUINV_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@AUTODESK",
+    "Feature": "87784INVTOL_2023_0F",
+    "AvailableLicences": 6,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ESRI",
+    "Feature": "ARC/INFO",
+    "AvailableLicences": 4,
+    "UsedLicences": 3,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ESRI",
+    "Feature": "Grid",
+    "AvailableLicences": 4,
+    "UsedLicences": 4,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ESRI",
+    "Feature": "TIN",
+    "AvailableLicences": 4,
+    "UsedLicences": 4,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@ESRI",
+    "Feature": "Viewer",
+    "AvailableLicences": 3,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27000@GlobalMapper",
+    "Feature": "GlobalMapper",
+    "AvailableLicences": 5,
+    "UsedLicences": 5,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "Compiler",
+    "AvailableLicences": 2,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "Curve_Fitting_Toolbox",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "MAP_Toolbox",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "MATLAB",
+    "AvailableLicences": 2,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "Signal_Toolbox",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "Statistics_Toolbox",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "Symbolic_Toolbox",
+    "AvailableLicences": 1,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "7788@MathCAD-G",
+    "Feature": "MATHCAD",
+    "AvailableLicences": 4,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "7788@MathCAD-G",
+    "Feature": "MathcadPrime",
+    "AvailableLicences": 5,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "7788@MathCAD-L",
+    "Feature": "MATHCAD",
+    "AvailableLicences": 4,
+    "UsedLicences": 0,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "7788@MathCAD-L",
+    "Feature": "MathcadPrime",
+    "AvailableLicences": 4,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "0@LICENCIAS.typsa.es",
+    "Feature": "SAPAD v23",
+    "AvailableLicences": 4,
+    "UsedLicences": 1,
+    "FeatureStatus": ""
+  },
+  {
+    "PortAtServer": "0@LICENCIAS.typsa.es",
+    "Feature": "SAPAD v24",
+    "AvailableLicences": 4,
+    "UsedLicences": 1,
+    "FeatureStatus": ""
+  },
+  {
+    "PortAtServer": "0@LICENCIAS.typsa.es",
+    "Feature": "SAPPL v23",
+    "AvailableLicences": 22,
+    "UsedLicences": 8,
+    "FeatureStatus": ""
+  },
+  {
+    "PortAtServer": "0@LICENCIAS.typsa.es",
+    "Feature": "SAPPL v24",
+    "AvailableLicences": 22,
+    "UsedLicences": 2,
+    "FeatureStatus": ""
+  },
+  {
+    "PortAtServer": "0@LICENCIAS.typsa.es",
+    "Feature": "SAPUL v23",
+    "AvailableLicences": 3,
+    "UsedLicences": 3,
+    "FeatureStatus": ""
+  },
+  {
+    "PortAtServer": "0@LICENCIAS.typsa.es",
+    "Feature": "SAPUL v24",
+    "AvailableLicences": 3,
+    "UsedLicences": 3,
+    "FeatureStatus": ""
+  }
 ]

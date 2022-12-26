@@ -34,6 +34,7 @@ function Licenses() {
             .then((data) => {
                 setLicenseList(data);
             });
+            
     };
 
 

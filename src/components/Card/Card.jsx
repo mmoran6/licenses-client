@@ -1,11 +1,15 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { Link } from 'react-router-dom';
+import { useEffect, useState } from "react";
 import './Card.css'
 
 
-function CardContainer({ info, license }) {
+function CardContainer({ info, name, license }) {
+  const [stockLicense, setStockLicense] = useState([]);
   let newName
+
+
 
 
   const newNames = (info) => {
@@ -44,6 +48,28 @@ function CardContainer({ info, license }) {
   newNames(info)
 
 
+  const numberLicense = (array, license) => {
+    const stock = []
+    let contador = 0
+    array?.forEach((singleName) => {
+      contador = 0
+      license.map((singleLicense) => {
+        if (singleName == singleLicense.PortAtServer) contador++
+      })
+      let stockSingle = `{"${singleName}":${contador}}`
+      stock.push(JSON.parse(stockSingle))
+    });
+    setStockLicense(stock)
+    localStorage.setItem("stock", JSON.stringify(stock))
+  };
+
+  useEffect(() => {
+    numberLicense(name , license)
+
+  }, []);
+
+
+
   return (
     <Card style={{ width: '18rem' }}>
       <Card.Body>
@@ -53,6 +79,21 @@ function CardContainer({ info, license }) {
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>
+        
+         {stockLicense.map((stock)=> {
+
+          for( let clave in stock){
+            if (clave == info) {
+              let numberLicense = `Tiene ${stock[clave]} licencias`
+              return(
+                <Card.Text key={clave}>{numberLicense}</Card.Text>
+              )
+            }
+          }
+         })
+
+         }
+        
        
         <Link to={`/${info}`}><Button sx={{ color: "red" }}>Ver más</Button></Link>
       </Card.Body>
