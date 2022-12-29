@@ -12,3 +12,18 @@
     border: 2px solid #bf1525;
     color: #bf1525
 }
+
+.cardHome{
+    display:flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+}
+
+.cardHomeTitle{
+    text-align: center;
+    padding: 5px;
+    background-color: #bf15261e;
+    width: 100%;
+    border-radius: 5px;
+}

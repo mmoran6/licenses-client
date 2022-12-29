@@ -31,7 +31,7 @@
     "PortAtServer": "1055@ANSYS",
     "Feature": "mech_2",
     "AvailableLicences": 1,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -143,14 +143,14 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "86815AECCOL_T_F",
     "AvailableLicences": 50,
-    "UsedLicences": 38,
+    "UsedLicences": 21,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "86830ACD_2018_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 6,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -192,7 +192,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "86857ADSTPR_2018_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 2,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -213,7 +213,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "86893CIV3D_2018_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -276,7 +276,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "86998NAVMAN_2018_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 2,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -290,7 +290,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87084ACD_2019_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 6,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -346,14 +346,14 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87096ADSTPR_2019_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87140CIV3D_2019_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -409,14 +409,14 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87195ACDIST_T_F",
     "AvailableLicences": 21,
-    "UsedLicences": 18,
+    "UsedLicences": 21,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87224ACD_2020_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 5,
+    "UsedLicences": 19,
     "FeatureStatus": null
   },
   {
@@ -465,7 +465,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87241PLNT3D_2020_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -493,14 +493,14 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87251CIV3D_2020_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 2,
+    "UsedLicences": 9,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87259RVT_2020_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 0,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {
@@ -528,7 +528,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87306NAVMAN_2020_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 4,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {
@@ -556,7 +556,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87393ACD_2021_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 6,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -612,7 +612,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87406NAVMAN_2021_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 2,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -647,7 +647,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87436ADSTPR_2021_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -661,7 +661,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87445CIV3D_2021_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 8,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -731,7 +731,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87545ACD_2022_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -759,7 +759,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87556CIV3D_2022_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 2,
+    "UsedLicences": 4,
     "FeatureStatus": null
   },
   {
@@ -780,7 +780,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87561RVT_2022_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 2,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -857,7 +857,7 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87676ACD_2023_0F",
     "AvailableLicences": 71,
-    "UsedLicences": 0,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -934,14 +934,14 @@
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "876933DSMAX_2023_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ADESK-ETR",
     "Feature": "87696NAVMAN_2023_0F",
     "AvailableLicences": 50,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -1032,7 +1032,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "86815AECCOL_T_F",
     "AvailableLicences": 41,
-    "UsedLicences": 41,
+    "UsedLicences": 13,
     "FeatureStatus": null
   },
   {
@@ -1046,14 +1046,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "86829PDCOLL_T_F",
     "AvailableLicences": 6,
-    "UsedLicences": 6,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "86830ACD_2018_0F",
     "AvailableLicences": 67,
-    "UsedLicences": 4,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -1137,7 +1137,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "86917RVT_2018_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -1249,7 +1249,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87084ACD_2019_0F",
     "AvailableLicences": 67,
-    "UsedLicences": 5,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -1305,14 +1305,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87096ADSTPR_2019_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 0,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87140CIV3D_2019_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 0,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -1368,14 +1368,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87176NAVMAN_2019_0F",
     "AvailableLicences": 47,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87195ACDIST_T_F",
     "AvailableLicences": 20,
-    "UsedLicences": 20,
+    "UsedLicences": 11,
     "FeatureStatus": null
   },
   {
@@ -1403,7 +1403,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87224ACD_2020_0F",
     "AvailableLicences": 67,
-    "UsedLicences": 8,
+    "UsedLicences": 3,
     "FeatureStatus": null
   },
   {
@@ -1431,7 +1431,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87229AMECH_PP_2020_0F",
     "AvailableLicences": 67,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -1487,14 +1487,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87251CIV3D_2020_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 3,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87259RVT_2020_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 3,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -1550,7 +1550,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87306NAVMAN_2020_0F",
     "AvailableLicences": 47,
-    "UsedLicences": 4,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -1606,7 +1606,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87393ACD_2021_0F",
     "AvailableLicences": 67,
-    "UsedLicences": 12,
+    "UsedLicences": 4,
     "FeatureStatus": null
   },
   {
@@ -1655,14 +1655,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87403MAP_2021_0F",
     "AvailableLicences": 67,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87406NAVMAN_2021_0F",
     "AvailableLicences": 47,
-    "UsedLicences": 2,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -1718,14 +1718,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87443RVT_2021_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87445CIV3D_2021_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 10,
+    "UsedLicences": 4,
     "FeatureStatus": null
   },
   {
@@ -1858,7 +1858,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87556CIV3D_2022_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 6,
+    "UsedLicences": 3,
     "FeatureStatus": null
   },
   {
@@ -1879,7 +1879,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87561RVT_2022_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 3,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -1900,14 +1900,14 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87565VEHTRK_2022_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87566NAVMAN_2022_0F",
     "AvailableLicences": 47,
-    "UsedLicences": 3,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -2068,7 +2068,7 @@
     "PortAtServer": "27000@AUTODESK",
     "Feature": "87687CIV3D_2023_0F",
     "AvailableLicences": 41,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
@@ -2194,35 +2194,35 @@
     "PortAtServer": "27000@ESRI",
     "Feature": "ARC/INFO",
     "AvailableLicences": 4,
-    "UsedLicences": 3,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ESRI",
     "Feature": "Grid",
     "AvailableLicences": 4,
-    "UsedLicences": 4,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ESRI",
     "Feature": "TIN",
     "AvailableLicences": 4,
-    "UsedLicences": 4,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@ESRI",
     "Feature": "Viewer",
     "AvailableLicences": 3,
-    "UsedLicences": 1,
+    "UsedLicences": 0,
     "FeatureStatus": null
   },
   {
     "PortAtServer": "27000@GlobalMapper",
     "Feature": "GlobalMapper",
     "AvailableLicences": 5,
-    "UsedLicences": 5,
+    "UsedLicences": 3,
     "FeatureStatus": null
   },
   {
@@ -2250,7 +2250,14 @@
     "PortAtServer": "27001@Matlab",
     "Feature": "MATLAB",
     "AvailableLicences": 2,
-    "UsedLicences": 0,
+    "UsedLicences": 1,
+    "FeatureStatus": null
+  },
+  {
+    "PortAtServer": "27001@Matlab",
+    "Feature": "MATLAB @ ID=40631554",
+    "AvailableLicences": null,
+    "UsedLicences": 1,
     "FeatureStatus": null
   },
   {
@@ -2278,7 +2285,7 @@
     "PortAtServer": "7788@MathCAD-G",
     "Feature": "MATHCAD",
     "AvailableLicences": 4,
-    "UsedLicences": 0,
+    "UsedLicences": 2,
     "FeatureStatus": null
   },
   {

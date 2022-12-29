@@ -1,9 +1,100 @@
 .main-content{
 display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+min-height: 80vh;
 }
 
 .card-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    width: 100%;
 }
+
+#inputValue2{
+    width: 400px;
+    margin: 40px
+}
+
+.licenses-container {
+    min-height: 75vh;
+    margin: 2rem 4em;
+}
+
+.licenses-container h2 {
+    margin-bottom: 1em;
+}
+
+.accordion-body-content {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.accordion-body-content p:first-child{
+    width: 25%;
+    background-color: #bf152604;
+    color: #bf1525;
+    font-weight: 600
+}
+
+.city{
+    width: 10%;
+}
+.checked{
+    width: 40%;
+    text-align: center;
+
+}
+
+.time{
+    width: 17%;
+}
+
+#search{
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.my-3{
+    height: 7vh;
+    margin:0px
+}
+
+.useLicense{
+    width: 100%;
+    text-align: center;
+}
+
+.containerSingleLicense{
+    width: 90%;
+    margin-left: 40px;
+}
+
+.accordion-button:not(.collapsed){
+    /* estilos para cuando el acordeón está activo */
+    background-color:#bf152613 !important;
+    color: black !important;
+ 
+}
+
+  
+.accordion {
+    --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem  #bf15262d !important;
+    width: 80vw !important
+}
+
+.acordeonMain{
+    min-height: 60vh;
+    display:flex;
+    justify-items: center;
+
+}
+
+
+
+
+
+
